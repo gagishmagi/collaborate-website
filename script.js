@@ -1,1 +1,1 @@
-prompt("JS is running!!")
+console.log("JS is running!!")
