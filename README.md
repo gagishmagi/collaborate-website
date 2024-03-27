@@ -8,5 +8,5 @@
 
 
 - [x] Create Home Page
-- [ ] Create Contacts Page
+- [x] Create Contacts Page
 - [x] Create About Us Page
