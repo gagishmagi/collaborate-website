@@ -7,3 +7,6 @@
 3. Create About Us Page
 
 
+- [x] Create Home Page
+- [ ] Create Contacts Page
+- [x] Create About Us Page
