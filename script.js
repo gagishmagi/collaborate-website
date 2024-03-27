@@ -1,2 +1,3 @@
+// stam od shura
 console.log("JS is running!!")
 // stam shura...
