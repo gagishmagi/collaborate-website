@@ -1,7 +1,7 @@
 {
   "name": "git_tutorial",
   "version": "1.0.0",
-  "description": "## TODO LIST in the project",
+  "description": "Website for collaborate work",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
